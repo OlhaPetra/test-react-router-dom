@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-04-hooks-feedback",
+  "name": "test-react-router-dom",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://OlhaPetra.github.io/goit-react-hw-04-hooks-feedback",
+  "homepage": "https://OlhaPetra.github.io/test-react-router-dom",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
