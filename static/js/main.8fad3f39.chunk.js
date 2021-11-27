@@ -1,0 +1,2 @@
+(this["webpackJsonptest-react-router-dom"]=this["webpackJsonptest-react-router-dom"]||[]).push([[0],{10:function(t,e,r){"use strict";r.r(e);var n=r(0),c=r.n(n),o=r(3),s=r.n(o),i=(r(8),r(1));var u=function(){return Object(i.jsx)("div",{})};s.a.render(Object(i.jsx)(c.a.StrictMode,{children:Object(i.jsx)(u,{})}),document.getElementById("root"))},8:function(t,e,r){}},[[10,1,2]]]);
+//# sourceMappingURL=main.8fad3f39.chunk.js.map
